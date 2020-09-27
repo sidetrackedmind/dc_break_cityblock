@@ -1,2 +1,5 @@
 gis_data/
 .ipynb_checkpoints/
+qgis_map/
+output/
+*.log
