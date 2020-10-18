@@ -2,4 +2,7 @@ gis_data/
 .ipynb_checkpoints/
 qgis_map/
 output/
+cache/
+__pycache__/
+.empty/
 *.log
